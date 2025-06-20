@@ -20,7 +20,7 @@ function App() {
           className="flex items-center gap-2 hover:bg-gradient-to-r from-blue-500 to-purple-500 hover:text-transparent hover:bg-clip-text"
         >
           <img
-            src="Photos/github-original.svg"
+            src="Photos\git-original.svg"
             alt="GitHub"
             className="w-5 h-5"
           />
@@ -42,7 +42,7 @@ function App() {
           className="flex items-center gap-2 hover:bg-gradient-to-r from-blue-500 to-purple-500 hover:text-transparent hover:bg-clip-text"
         >
           <img
-            src="Photos/github-original.svg"
+            src="Photos\github-original.svg"
             alt="GitHub"
             className="w-5 h-5"
           />
@@ -63,7 +63,7 @@ function App() {
         
         
 <section id="home" className="min-h-screen flex flex-col lg:flex-row items-center justify-center px-4 sm:px-6 md:px-12 lg:px-16 xl:px-20 relative">
-        <img src="Photos/icon.png" alt="" className="size-25 relative bottom-80 right-15"/>
+        <img src="Photos\icon.png" alt="" className="size-25 relative bottom-80 right-15"/>
         {/* Main Content Section */}
         
         <div className="relative min-h-screen flex flex-col lg:flex-row items-center justify-between px-4 sm:px-6 md:pl-27">
@@ -90,7 +90,7 @@ function App() {
 
           <div className="w-full lg:w-1/2 order-1 lg:order-2 flex justify-center lg:justify-end">
             <img
-              src="Photos/picture.png"
+              src="Photos\picture.png"
               alt="My Profile Picture"
               className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl 2xl:max-w-2xl object-contain mix-blend-lighten"
             />
@@ -103,7 +103,7 @@ function App() {
           {/* About Me Image */}
           <div className="w-full lg:w-1/2 flex justify-center lg:justify-start mb-8 lg:mb-0">
             <img
-              src="Photos/about picture.png"
+              src="Photos\about picture.png"
               alt="My Picture(2nd)"
               className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl 2xl:max-w-2xl object-contain mix-blend-lighten"
             />
@@ -136,7 +136,7 @@ function App() {
                 {/* Email */}
                 <div className="flex items-center justify-center lg:justify-start gap-3">
                   <img
-                    src="Photos/email-icon.png"
+                    src="Photos\email-icon.png"
                     alt="Email Icon"
                     className="size-10"
                   />
@@ -150,7 +150,7 @@ function App() {
                 {/* Location */}
                 <div className="flex items-center justify-center lg:justify-start gap-3">
                   <img
-                    src="Photos/location.png"
+                    src="Photos\location.png"
                     alt="Location Icon"
                     className="size-10"
                   />
@@ -190,7 +190,7 @@ function App() {
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6">
             <CardSpotlight className="h-48 w-40 flex flex-col items-center justify-center text-center">
               <img
-                src="Photos/c-original.svg"
+                src="Photos\c-original.svg"
                 alt="C language icon"
                 className="h-20 w-20 object-contain mb-2 scale-z-50"
               />
@@ -201,7 +201,7 @@ function App() {
 
             <CardSpotlight className="h-48 w-40 flex flex-col items-center justify-center text-center">
               <img
-                src="Photos/cplusplus-original.svg"
+                src="Photos\cplusplus-original.svg"
                 alt="Cpp language icon"
                 className="h-20 w-20 object-contain mb-2 scale-z-50"
               />
@@ -212,7 +212,7 @@ function App() {
 
             <CardSpotlight className="h-48 w-40 flex flex-col items-center justify-center text-center">
               <img
-                src="Photos/git-original.svg"
+                src="Photos\git-original.svg"
                 alt="Git"
                 className="h-20 w-20 object-contain mb-2 scale-z-50"
               />
@@ -223,7 +223,7 @@ function App() {
 
             <CardSpotlight className="h-48 w-40 flex flex-col items-center justify-center text-center">
               <img
-                src="Photos/github-mark-white.png"
+                src="Photos\github-mark-white.png"
                 alt="Github"
                 className="h-20 w-20 object-contain mb-2 scale-z-50"
               />
@@ -234,7 +234,7 @@ function App() {
 
             <CardSpotlight className="h-48 w-40 flex flex-col items-center justify-center text-center">
               <img
-                src="Photos/html5-original.svg"
+                src="Photos\html5-original.svg"
                 alt="Html"
                 className="h-20 w-20 object-contain mb-2 scale-z-50"
               />
@@ -245,7 +245,7 @@ function App() {
 
             <CardSpotlight className="h-48 w-40 flex flex-col items-center justify-center text-center">
               <img
-                src="Photos/javascript-original.svg"
+                src="Photos\javascript-original.svg"
                 alt="Javascript"
                 className="h-20 w-20 object-contain mb-2 scale-z-50"
               />
@@ -256,7 +256,7 @@ function App() {
 
             <CardSpotlight className="h-48 w-40 flex flex-col items-center justify-center text-center">
               <img
-                src="Photos/python-original.svg"
+                src="Photos\python-original.svg"
                 alt="Python"
                 className="h-20 w-20 object-contain mb-2 scale-z-50"
               />
@@ -267,7 +267,7 @@ function App() {
 
             <CardSpotlight className="h-48 w-40 flex flex-col items-center justify-center text-center">
               <img
-                src="Photos/react.png"
+                src="Photos\react.png"
                 alt="React JS"
                 className="h-20 w-20 object-contain mb-2 scale-z-50"
               />
@@ -278,7 +278,7 @@ function App() {
 
             <CardSpotlight className="h-48 w-40 flex flex-col items-center justify-center text-center">
               <img
-                src="Photos/css3-original.svg"
+                src="Photos\css3-original.svg"
                 alt="Css"
                 className="h-20 w-20 object-contain mb-2 scale-z-50"
               />
@@ -289,7 +289,7 @@ function App() {
 
             <CardSpotlight className="h-48 w-40 flex flex-col items-center justify-center text-center">
               <img
-                src="Photos/Tailwind.png"
+                src="Photos\Tailwind.png"
                 alt="Tailwind"
                 className="h-20 w-20 object-contain mb-2 scale-z-50"
               />
